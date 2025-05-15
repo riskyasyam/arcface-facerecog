@@ -1,0 +1,10 @@
+numpy==1.26.4
+opencv-python==4.8.0.76
+matplotlib==3.8.0
+mtcnn==0.1.1
+facenet-pytorch==2.6.0
+torch==2.2.0
+torchvision==0.17.0
+Pillow==10.2.0
+scikit-learn==1.4.2
+tensorflow==2.15.0
